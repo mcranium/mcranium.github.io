@@ -5,6 +5,8 @@ date: "29.07.2020"
 category: vector-graphics
 ---
 
+Sometimes you want to straighten the outline of something in order to perform an analysis afterwards. But how would you do that without introducing too much arbitraryness into this process. Here is a solution which only requires you to draw a line onto the midline of the object.
+
 # Step 1
 Draw the outline using the Bezier tool. Then draw the midline according to what you see in the base image.
 
