@@ -4,6 +4,8 @@ title: "Publications"
 ---
 ## Peer reviewed journal articles
 
+Schädel, M., Hörnig, M. K., Hyžný, M., & Haug, J. T. (2021). Mass occurrence of small isopodan crustaceans in 100-million-year-old amber: an extraordinary view on behaviour of extinct organisms. PalZ, 1-17. [HTML](https://link.springer.com/article/10.1007/s12542-021-00564-9) [PDF](https://link.springer.com/content/pdf/10.1007/s12542-021-00564-9.pdf)
+
 Schädel, M., Hyžný, M. & Haug, J. T. (2021). Ontogenetic development captured in amber - the first record of aquatic representatives of Isopoda in Cretaceous amber from Myanmar. Nauplius 29, e2021003. [HTML](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-64972021000100201&lng=en&nrm=iso&tlng=en) [PDF](https://www.scielo.br/pdf/nau/v29/2358-2936-nau-29-e2021003.pdf)
 
 Haug, J. T., Baranov, V., Schädel, M., Müller, P., Gröhn, C., & Haug, C. (2020). Challenges for understanding lacewings: how to deal with the incomplete data from extant and fossil larvae of Nevrorthidae?(Neuroptera). Fragmenta entomologica, 52(2), 137-168. [PDF](http://fragmentaentomol.org/index.php/fragmenta/article/download/472/444)
