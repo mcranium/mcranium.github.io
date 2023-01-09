@@ -2,7 +2,10 @@
 layout: "default"
 title: "Publications"
 ---
+
 ## Peer reviewed journal articles
+
+Schädel, M., Yavorskaya, M. I., Beutel R. G. (2022). The earliest beetle †Coleopsis archaica (Insecta: Coleoptera) – morphological re-evaluation using Reflectance Transformation Imaging (RTI) and phylogenetic assessment. Arthropod Systematics & Phylogeny, 495-510. [HTML](https://doi.org/10.3897/asp.80.e86582) [PDF](https://arthropod-systematics.arphahub.com/article/86582/download/pdf/743235)
 
 Schädel, M., Hörnig, M. K., Hyžný, M., & Haug, J. T. (2021). Mass occurrence of small isopodan crustaceans in 100-million-year-old amber: an extraordinary view on behaviour of extinct organisms. PalZ, 1-17. [HTML](https://link.springer.com/article/10.1007/s12542-021-00564-9) [PDF](https://link.springer.com/content/pdf/10.1007/s12542-021-00564-9.pdf)
 
@@ -40,6 +43,10 @@ Cretaceous Burmese Amber. Zootaxa, 4103(6), 537-549. [ResearchGate](https://www.
 
 
 ## Conference contributions
+
+Schädel, M. 2022. Shape from Shading as an inexpensive tool to study surface details of even small insect fossils. 5th International Congress on Invertebrate Morphology, Vienna, 8–12 August 2022. (poster + short presentation)
+
+Schädel, M., Hyžný, M., Nagler, C. & Haug, J. T. (2021). Close relatives of extant parasitic forms of crustaceans from the Mesozoic of Europe. 92th Annual Meeting of the Paläontologische Gesellschaft, Vienna (online), 29 September – 1 October 2021. (talk)
 
 Schädel, M. Hyžný, M. & Haug, J. T. (2019). From a systematic waste basket to the fossil record of giant isopods. Annual Meeting of the Palaeontological Association, Valencia, 19-20 December 2019. (poster)
 
