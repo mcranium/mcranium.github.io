@@ -41,7 +41,7 @@ feh ~/Pictures/deuter.png -F
 - [Custom Hot Corners - Extended (Gnome extension)](https://github.com/G-dH/custom-hot-corners-extended): This is an extension for the Gnome desktop environment that allows you to render a window with converted colours, so that you can actually work as if you were impaired. This allows you to tweak the colours without having to go back and forth as often as you would have to with the other two solutions presented above. If Gnome is your desktop environmaent of choice, this is probably the best solution out there. The extension serves as a frontend for the Gnome Universal Access tools and different functions can be grouped into custom menus, which then can be launched with keyboard shortcuts. 
 
 
-{% include image.html url="images/colour-deficiency-simulation/gnome_ext_menu.png" description="This menu is accessible through the "extensions" app" %}
+{% include image.html url="images/colour-deficiency-simulation/gnome_ext_menu.png" description="This menu is accessible through the extensions app or the extensions manager app" %}
 
 {% include image.html url="images/colour-deficiency-simulation/gnome_inkscape_deut.png" description="The custom menu after being launched with a keyboard shortcut" %}
 
