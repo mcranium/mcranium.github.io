@@ -5,6 +5,8 @@ title: "Publications"
 
 ## Peer reviewed journal articles
 
+Schädel, M., Nagler, C. & Hyžný, M. (2022). Fossil Relatives of Extant Parasitic Crustaceans from the Mesozoic of Europe. Boletín de La Sociedad Geológica Mexicana 75(2), 1-57. [HTML](http://boletinsgm.igeolcu.unam.mx/bsgm/index.php/volumenes-volumes/cuarta-epoca/375-sitio/articulos/cuarta-epoca/7502/2661-7502-02-A220323_Schadel) [PDF](http://boletinsgm.igeolcu.unam.mx/bsgm/vols/epoca04/7502/A220323_Schadel.pdf)
+
 Schädel, M., Yavorskaya, M. I., Beutel R. G. (2022). The earliest beetle †Coleopsis archaica (Insecta: Coleoptera) – morphological re-evaluation using Reflectance Transformation Imaging (RTI) and phylogenetic assessment. Arthropod Systematics & Phylogeny, 495-510. [HTML](https://doi.org/10.3897/asp.80.e86582) [PDF](https://arthropod-systematics.arphahub.com/article/86582/download/pdf/743235)
 
 Schädel, M., Hörnig, M. K., Hyžný, M., & Haug, J. T. (2021). Mass occurrence of small isopodan crustaceans in 100-million-year-old amber: an extraordinary view on behaviour of extinct organisms. PalZ, 1-17. [HTML](https://link.springer.com/article/10.1007/s12542-021-00564-9) [PDF](https://link.springer.com/content/pdf/10.1007/s12542-021-00564-9.pdf)
