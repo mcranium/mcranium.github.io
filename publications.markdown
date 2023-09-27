@@ -48,7 +48,7 @@ Cretaceous Burmese Amber. Zootaxa, 4103(6), 537-549. [ResearchGate](https://www.
 
 Schädel, M. 2023. Multi Light Imaging as a tool to capture fine details of compression fossils – dedicated hardware and a convenient alternative. 94th Annual Meeting of the Paläontologische Gesellschaft, Jena, 18-22 September 2023. (talk)
 
-Schädel, M. 2023. Multi light imaging of small compression fossils – proper tools and a neat shortcut. The Palaeontological Association 67th Annual Meeting, University of Cambridge, UK, 11-15 September 2023. (poster)
+Schädel, M. 2023. Multi light imaging of small compression fossils – proper tools and a neat shortcut. The Palaeontological Association 67th Annual Meeting, University of Cambridge, UK, 11-15 September 2023. (poster) [PDF](https://doi.org/10.5281/zenodo.8381473)
 
 Schädel, M. 2022. Shape from Shading as an inexpensive tool to study surface details of even small insect fossils. 5th International Congress on Invertebrate Morphology, Vienna, 8–12 August 2022. (poster + short presentation)
 
