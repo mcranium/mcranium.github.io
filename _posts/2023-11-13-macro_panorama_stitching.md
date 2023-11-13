@@ -16,7 +16,7 @@ Fortunately, there is an open source program called [Hugin](https://hugin.source
 ## Workflow using [Hugin](https://hugin.sourceforge.io/)
 
 1) All images should be of the same dimension. This sounds trivial but depending on the focus-merging software and settings, image dimensions can vary from image to image by a few pixels. If it is not possible to get the input images to be of the same size, you have to account for that later – depending on the images and the overlap it is possible that you will not get good results.
-{% include image.html url="images/stitching_huginmacro_pano_hugin-02.png" %}
+{% include image.html url="images/stitching_hugin/macro_pano_hugin-02.png" %}
 ![Alt text](macro_pano_hugin-01.png)
 
 2) Make sure you have at least the 2022 version of Hugin (available as a flatpak). Under `Interface` in the top menu select `Expert` (you **will** need the expert settings later on).
