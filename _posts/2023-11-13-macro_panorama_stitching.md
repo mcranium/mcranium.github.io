@@ -31,13 +31,13 @@ Fortunately, there is an open source program called [Hugin](https://hugin.source
 
 5) Enter your camera and lens data. For the camera data you have to enter the crop factor of the camera sensor (relative to a full frame sensor), so for example `1.5` for a Nikon DX (APS-C) sensor. Note that this will change the `HFOV` (Horizontal Field Of View) value.
 
-    If you could not determine the focal length, e.g. because you did not use a standard lens or lost the information which lens you used, click Cancel and it will fill in default values, which can be very detrimental for your stitching results if not recalculated later (see below).
+If you could not determine the focal length, e.g. because you did not use a standard lens or lost the information which lens you used, click Cancel and it will fill in default values, which can be very detrimental for your stitching results if not recalculated later (see below).
 ![](images/stitching_hugin/macro_pano_hugin-05.png)
 
 6) Under `Feature matching` click `Create control points`. Use the default option 'Hugin's CPFind'. You can inspect and manually edit the control points under the `Control Points` tab (useful for blurry images or images with large out of focus areas).
 ![](images/stitching_hugin/macro_pano_hugin-06.png)
 
-    Check the number of control points and get a feeling for it.
+Check the number of control points and get a feeling for it.
 
 ![](images/stitching_hugin/macro_pano_hugin-07.png)
 
@@ -46,11 +46,11 @@ Fortunately, there is an open source program called [Hugin](https://hugin.source
 
 8) Go to the the tab `Optimzer`.
 
-    Under `Image orientation`:
+Under `Image orientation`:
 - Leave one image totally unchecked (Anchor image from the `Photos` tab, its position does not need to be optimzed)
 - For all other images select only `X(TrX)` and `Y(TrY)` to be optimized. This is unless you need to account for (accidental) tilting that might have occurred while capturing (e.g. handheld camera, movement of the specimen by hand leading to rotation)
 
-    Under `Lens Parameters` check `a` and `b`. If you were not able to determine the focal length then you also need to check `Hfov (v)`.
+Under `Lens Parameters` check `a` and `b`. If you were not able to determine the focal length then you also need to check `Hfov (v)`.
 ![](images/stitching_hugin/macro_pano_hugin-09.png)
 
 9) Click `Optimize now!`. The checked box Only use control points between activated images refers to settings from a different menu (all images are activated by default).
@@ -64,9 +64,9 @@ Fortunately, there is an open source program called [Hugin](https://hugin.source
 
 12) Go back to the Stitcher tab and click the buttons `Calcuate Field of View` and `Calculate Optimal Size`. You may also click `Fit Crop to Images`. This will remove unoccupied image space; yet, it can also cut off areas of your panorama that stick out from a rectangluar arrangement. You can always crop the image later in a raster graphics editor like [GIMP](https://www.gimp.org/).
 
-    You can leave all remainder settings at their default values.
+You can leave all remainder settings at their default values.
 
-    Click `Stitch!`
+Click `Stitch!`
 ![](images/stitching_hugin/macro_pano_hugin-13.png)
 
 13) Before Hugin blends together your panorama, you **need** to save the stitching project, so that the command line programs that do the heavy lifting can read the information they require.
