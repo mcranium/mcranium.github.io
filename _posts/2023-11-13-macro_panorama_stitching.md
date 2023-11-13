@@ -9,7 +9,7 @@ categories: image-manipulation macro-photography
 # Stitching accurate panormas from macro photography images
 
 ## Background
-Stitching together images taken with a macro photgraphy setup is not a trivial task. With some setups it is possible to use programs that are designed for microscopic images (very low distortion) like the [Grid/Collection Stitching](https://imagej.net/plugins/grid-collection-stitching) plugin for [ImageJ](https://imagej.net/)/[Fiji](https://imagej.net/software/fiji/) or the `Montage all images in this layer` function in TrakEM2. However, as soon as there is noticeable distortion in the images, there will be artefacts if you attempt to blend the aligned images to a panoramic image.
+Stitching together images taken with a macro photography setup is not a trivial task. With some setups it is possible to use programs that are designed for microscopic images (very low distortion) like the [Grid/Collection Stitching](https://imagej.net/plugins/grid-collection-stitching) plugin for [ImageJ](https://imagej.net/)/[Fiji](https://imagej.net/software/fiji/) or the `Montage all images in this layer` function in TrakEM2. However, as soon as there is noticeable distortion in the images, there will be artefacts if you attempt to blend the aligned images to a panoramic image.
 Most panorama creators take into account the distiortion of the images. However, they also assume that the panorama was recorded by tilting the camera, which is not how one would record a panorama in macro photography. In macro photographic setups often a microscope table with X-Y drives or (motorized) X-Y stages are used to translate the photographed object. If the panorama creating sotware is unaware of this difference in recording, the alignment can fail or the stitched image might contain severe artifacts (which  may not even be noticed).
 Fortunately, there is an open source program called [Hugin](https://hugin.sourceforge.io/) that is capable of creating large panoramas and allows to precisely specify how the final image will be created, estimating and taking into account the distortion of the images and the translation movement. Hugin is forever free of charge and runs on all relevant modern operating systems such as Linux, Windows and MacOS.
 
@@ -76,7 +76,7 @@ Click `Stitch!`
 14) You will also be asked to provide a file name. Make sure to also append the desired file extension (`.tif` for the default `Stitcher` settings)
 ![](images/stitching_hugin/macro_pano_hugin-16.png)
 
-15) Hugin will then try to run your project and constantly tell you what it is currrently doing. Hugin may also open another where your project will appear as one job in a batch processing cue. Ignore the batch processing window – **do not close it!**
+15) Hugin will then try to run your project and constantly tell you what it is currrently doing. Hugin may also open another where your project will appear as one job in a batch processing queue. Ignore the batch processing window – **do not close it!**
 ![](images/stitching_hugin/macro_pano_hugin-17.png)
 
 16) Note that the resulting panoramic images, especially when not automatically cropped, can **have very large pixel dimensions**. Because of this, it may be best to either use a powerful raster graphics editor like GIMP to open it and to crop it to the desired dimensions or to use a image viewer that is designed for large images like [vipsdisp](https://github.com/jcupitt/vipsdisp) to open it.
