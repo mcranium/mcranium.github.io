@@ -14,17 +14,18 @@ Nationality: German
 
 ## Current position
 
-Since February 2022: IT Technician at the Animal Evolutionary Ecology lab of the University of Tübingen
-
+01.05.2024 – 30.04.2026: Biostatistician at the Palaeoanthropology lab of the University of Tübingen/Senckenberg Centre for Human Evolution and Palaeoenvironment
 
 ## Employment history
+
+01.02.2022 – 30.04.2024: IT Technician at the Animal Evolutionary Ecology lab of the University of Tübingen
 
 03.11.2017 – 31.12.2020:<br/>
 Research assistant (PhD student) at the Ludwig-Maximilians-Universität München (LMU Munich) funded by the Deutsche Forschungsgemeinschaft (DFG project HA 6300/3-2: Palaeo-Evo-Devo of Malacostraca)
 
 
 ## Academic education
-29.10.2020:<br/>
+29.10.2022:<br/>
 PhD with high honour (magna cum laude); title of dissertation: “The link between true larvae and parasitic forms within Isopoda – insights from the fossil record”; supervisor: Prof. Dr. Joachim T. Haug
 
 November 2017 – January 2022: Doctoral studies at the Ludwig-Maximilians-Universität München (LMU Munich)
