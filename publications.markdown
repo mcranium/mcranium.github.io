@@ -5,7 +5,9 @@ title: "Publications"
 
 ## Peer reviewed journal articles
 
-Schädel, M., Nagler, C. & Hyžný, M. (2022). Fossil Relatives of Extant Parasitic Crustaceans from the Mesozoic of Europe. Boletín de La Sociedad Geológica Mexicana 75(2), 1-57. [HTML](http://boletinsgm.igeolcu.unam.mx/bsgm/index.php/volumenes-volumes/cuarta-epoca/375-sitio/articulos/cuarta-epoca/7502/2661-7502-02-A220323_Schadel) [PDF](http://boletinsgm.igeolcu.unam.mx/bsgm/vols/epoca04/7502/A220323_Schadel.pdf)
+Schädel, M. & Schubert, R. (2024). Flatbed scanners as versatile tools for studying surface details of compression fossils. Palaeontologia Electronica 27(2):a27 [HTML](https://palaeo-electronica.org/content/2024/5216-scanning-fossil-surfaces) [PDF](https://palaeo-electronica.org/content/pdfs/1353.pdf)
+
+Schädel, M., Nagler, C. & Hyžný, M. (2023). Fossil Relatives of Extant Parasitic Crustaceans from the Mesozoic of Europe. Boletín de La Sociedad Geológica Mexicana 75(2), 1-57. [HTML](http://boletinsgm.igeolcu.unam.mx/bsgm/index.php/volumenes-volumes/cuarta-epoca/375-sitio/articulos/cuarta-epoca/7502/2661-7502-02-A220323_Schadel) [PDF](http://boletinsgm.igeolcu.unam.mx/bsgm/vols/epoca04/7502/A220323_Schadel.pdf)
 
 Schädel, M., Yavorskaya, M. I., Beutel R. G. (2022). The earliest beetle †Coleopsis archaica (Insecta: Coleoptera) – morphological re-evaluation using Reflectance Transformation Imaging (RTI) and phylogenetic assessment. Arthropod Systematics & Phylogeny, 495-510. [HTML](https://doi.org/10.3897/asp.80.e86582) [PDF](https://arthropod-systematics.arphahub.com/article/86582/download/pdf/743235)
 
