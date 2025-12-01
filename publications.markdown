@@ -24,9 +24,7 @@ Schädel, M. & Haug J. T. (2020). A new interpretation of the enigmatic fossil a
 *Anhelkocephalon handlirschi* Bill, 1914 – important insights in the
 morphology of Cyclida. Palaeodiversity 13, 69–81. [HTML](https://bioone.org/journals/Palaeodiversity/volume-13/issue-1/pale.v13.a7/A-new-interpretation-of-the-enigmatic-fossil-arthropod-Anhelkocephalon-handlirschi/10.18476/pale.v13.a7.full) [PDF](https://bioone.org/journalArticle/Download?fullDOI=10.18476%2Fpale.v13.a7)
 
-
 Schädel, M., Van Eldijk, T., Winkelhorst, H., Reumer, J. W. F. & Haug, J. T. (2020). Triassic Isopoda – three new species from Central Europe shed light on the early diversity of the group. Bulletin of Geosciences 95(2).[HTML](http://www.geology.cz/bulletin/contents/art1773) [PDF](http://www.geology.cz/bulletin/fulltext/1773_Schadel_200530.pdf)
-
 
 Haug, J. T., Schädel, M., Baranov, V. A. & Haug, C. (2020). An unusual 100-million-year old holometabolan larva with a piercing mouthcone. PeerJ 8, e8661. [PDF](https://peerj.com/articles/8661.pdf)
 
@@ -47,7 +45,15 @@ Schädel, M. & Bechly, G. (2016). First record of Anisoptera (Insecta: Odonata) 
 Cretaceous Burmese Amber. Zootaxa, 4103(6), 537-549. [ResearchGate](https://www.researchgate.net/publication/301352773_First_Record_of_Anisoptera_Insecta_Odonata_from_mid-Cretaceous_Burmese_Amber)
 
 
+## Other contributions
+
+Schädel, M. 2025. A robust open source photogrammetry workflow for digitizing macroscopic specimens. protocols.io [HTML](https://www.protocols.io/view/a-robust-open-source-photogrammetry-workflow-for-d-rm7vzqdk8vx1/v1)
+
+
 ## Conference contributions
+
+Schädel, M., Röding, C. & Karakostis, F. A. 2025. A landmark-free approach to comparing 3D surface
+patches with homologous outlines. Annual meeting of the German Zoological Society (DZG), Berlin, 8–12 September 2025. (poster) [Abstract](https://nyakaturalab.com/wp-content/uploads/2025/09/DZG2025_Abstracts.pdf)
 
 Schädel, M. 2023. Multi Light Imaging as a tool to capture fine details of compression fossils – dedicated hardware and a convenient alternative. 94th Annual Meeting of the Paläontologische Gesellschaft, Jena, 18-22 September 2023. (talk)
 
@@ -71,7 +77,7 @@ Schädel, M. & Haug, J. T. (2019). New insights in the character evolution in th
 
 Schädel, M. Hyžný, M. & Haug, J. T. (2019). Taphonomisch interessante Asseln aus Burmesischem Bernstein. Taphonomically interesting isopods from Burmese amber. 28–31 March 2019. (poster)
 
-Schädel, M., Müller, P. & Haug, J. T. (2018). 100 million years old insect larvae shed light on the ancestral morphology of Odonata (dragonflies and damselflies). 10–15 September 2018. (talk)
+Schädel, M., Müller, P. & Haug, J. T. (2018). 100 million years old insect larvae shed light on the ancestral morphology of Odonata (dragonflies and damselflies). Annual meeting of the German Zoological Society (DZG), Greifswald, 10–15 September 2018. (talk)
 
 Schädel, M., Müller, P. & Haug, J. T. (2018). Fossil aquatic insect larvae in Burmese amber with important implications on the ground pattern of Odonata (dragonflies and damselflies). GeoBonn (Annual meeting of the Paläontologische Gesellschaft), Bonn, 2–6 September 2018. (talk)
 
