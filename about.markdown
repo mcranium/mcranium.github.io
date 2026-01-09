@@ -6,7 +6,7 @@ permalink: /about/
 
 ## About me and my work
 
-![picture of me](/images/DSC_8088_crop_small.JPG){: width="350" }
+![picture of me](/images/mario_schaedel_portrait_2025_small.jpg){: width="350" }
 
 The fossil record of arthropods has been my main interest since I started studying biology. Using various morphological tools, I try to gather as much information as possible from the, often small, fossils.
 
