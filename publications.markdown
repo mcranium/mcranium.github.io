@@ -39,7 +39,7 @@ Braig, F., Haug, J. T., Schädel, M. & Haug, C. (2019). A new thylacocephalan cr
 Schädel, M., Pazinato, P. G., van der Wal, S. & Haug, J. T. (2019). A fossil tanaidacean crustacean from the Middle Jurassic of southern Germany. Palaeodiversity 12, 13–30. [PDF](https://bioone.org/journalArticle/Download?fullDOI=10.18476%2Fpale.v12.a2)
 
 Schädel, M. & Lechner, T. S. (2017). Two new dragonflies (Odonata: Anisoptera) from the
-Miocene of Carinthia (Austria). Zootaxa, 4243(1), 153-164. [ResearchGate](https://www.researchgate.net/publication/314978799_Two_new_dragonflies_Odonata_Anisoptera_from_the_Miocene_of_Carinthia_Austria)
+Miocene of Carinthia (Austria). Zootaxa, 4243(1), 153-164. [HTML](https://doi.org/10.11646/zootaxa.4243.1.7) [PDF](https://www.mapress.com/zt/article/view/zootaxa.4243.1.7/10478)
 
 Schädel, M. & Bechly, G. (2016). First record of Anisoptera (Insecta: Odonata) from mid-
 Cretaceous Burmese Amber. Zootaxa, 4103(6), 537-549. [ResearchGate](https://www.researchgate.net/publication/301352773_First_Record_of_Anisoptera_Insecta_Odonata_from_mid-Cretaceous_Burmese_Amber)
