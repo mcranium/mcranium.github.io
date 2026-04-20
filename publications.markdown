@@ -4,6 +4,8 @@ title: "Publications"
 ---
 
 ## Peer reviewed journal articles
+Schädel, M. & Wedmann, S. (2026). A new fossil hawker dragonfly (Odonata: aff. Aeshnidae) from the Eocene Messel maar. Palaeobiodiversity and Palaeoenvironments [HTML](https://doi.org/10.1007/s12549-026-00699-0) [PDF](https://link.springer.com/content/pdf/10.1007/s12549-026-00699-0.pdf)
+
 Schädel, M., Azar, D., El Hajj, L., Maksoud, S. & Robin, N. (2025). A 125 million-year-old freshwater isopod shines new light on the origin of subterranean freshwater species. Royal Society Open science 12:241512 [HTML](http://doi.org/10.1098/rsos.241512) [PDF](https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.241512?download=true)
 
 Schädel, M. & Schubert, R. (2024). Flatbed scanners as versatile tools for studying surface details of compression fossils. Palaeontologia Electronica 27(2):a27 [HTML](https://palaeo-electronica.org/content/2024/5216-scanning-fossil-surfaces) [PDF](https://palaeo-electronica.org/content/pdfs/1353.pdf)
