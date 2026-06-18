@@ -4,6 +4,9 @@ title: "Publications"
 ---
 
 ## Peer reviewed journal articles
+
+Schädel, M. (2026). The largest fossil tanaidacean is not a tanaidacean – <i>Cretitanais giganteus</i> (Malzahn, 1979) is a junior synonym of <i>Urda stemmerbergensis</i> (Malzahn, 1968). Open Palaeontology 3(1) [HTML](https://doi.org/10.26034/la.opal.2026.9328 ) [PDF](https://www.openpalaeo.org/article/view/9328/9354)
+
 Schädel, M. & Wedmann, S. (2026). A new fossil hawker dragonfly (Odonata: aff. Aeshnidae) from the Eocene Messel maar. Palaeobiodiversity and Palaeoenvironments [HTML](https://doi.org/10.1007/s12549-026-00699-0) [PDF](https://link.springer.com/content/pdf/10.1007/s12549-026-00699-0.pdf)
 
 Schädel, M., Azar, D., El Hajj, L., Maksoud, S. & Robin, N. (2025). A 125 million-year-old freshwater isopod shines new light on the origin of subterranean freshwater species. Royal Society Open science 12:241512 [HTML](http://doi.org/10.1098/rsos.241512) [PDF](https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.241512?download=true)
