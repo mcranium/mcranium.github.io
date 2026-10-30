@@ -4,6 +4,7 @@ title: "Publications"
 ---
 
 ## Peer reviewed journal articles
+Laville, T. & Schädel, M. (2026). *Ovalicaris wulforum* sp. nov., a new thylacocephalan from the Late Jurassic Solnhofen Archipelago, and a re-examination of Dollocaris michelorum Polz, 2001. PalZ (online first) [HTML](https://doi.org/10.1007/s12542-026-00788-7) [PDF](https://link.springer.com/content/pdf/10.1007/s12542-026-00788-7.pdf)
 
 Schädel, M. (2026). The largest fossil tanaidacean is not a tanaidacean – <i>Cretitanais giganteus</i> (Malzahn, 1979) is a junior synonym of <i>Urda stemmerbergensis</i> (Malzahn, 1968). Open Palaeontology 3(1) [HTML](https://doi.org/10.26034/la.opal.2026.9328 ) [PDF](https://www.openpalaeo.org/article/view/9328/9354)
 
